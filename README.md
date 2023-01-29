@@ -1,4 +1,4 @@
 
-# MIPS Multicycle CPU Starter Code
+# MIPS Multi Cycle Processor
 
-Multicycle MIPS Processor coded in Verilog for ECE 154A
+Multi Cycle MIPS Processor coded in Verilog for ECE 154A
